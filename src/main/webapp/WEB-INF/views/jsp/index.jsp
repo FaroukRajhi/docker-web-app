@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome from jenkins server</h2>
+			<h2>Welcome from jenkins and docker server </h2>
 			<h3>Devops Technology</h3>
 		</div>	
 	</div>
